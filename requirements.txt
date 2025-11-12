@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+pyngrok
+numpy
+statsmodels
+prophet
+scikit-learn
